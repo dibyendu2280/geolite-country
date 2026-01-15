@@ -1,0 +1,2 @@
+# This file ensures the database directory is tracked by git
+# It will be removed after the first database download

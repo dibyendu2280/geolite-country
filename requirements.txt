@@ -1,0 +1,5 @@
+# Required for the update script
+requests>=2.31.0
+
+# Optional: For testing the database locally
+# geoip2>=4.7.0
