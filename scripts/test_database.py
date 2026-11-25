@@ -15,7 +15,7 @@ except ImportError:
     sys.exit(1)
 
 # Path to database
-DB_PATH = Path(__file__).parent.parent / "database" / "GeoLite2-Country.mmdb"
+DB_PATH = Path(__file__).parent.parent / "database" / "Geolocation-Country.mmdb"
 
 def lookup_ip(ip_address):
     """Look up country information for an IP address."""
