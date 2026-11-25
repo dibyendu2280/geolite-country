@@ -7,5 +7,5 @@ Automatically downloads and maintains the latest MaxMind GeoLite2-Country databa
 Once set up, access the database directly at:
 
 ```
-https://raw.githubusercontent.com/dibyendu2280/geolite-country/main/database/GeoLite2-Country.mmdb
+https://raw.githubusercontent.com/dibyendu2280/geolite-country/main/database/Geolocation-Country.mmdb
 ```
