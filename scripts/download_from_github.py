@@ -19,7 +19,7 @@ REPO_NAME = "YOUR_REPO"            # Your repository name
 # ============================================================================
 
 BASE_URL = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/database"
-DB_FILENAME = "GeoLite2-Country.mmdb"
+DB_FILENAME = "Geolocation-Country.mmdb"
 DB_URL = f"{BASE_URL}/{DB_FILENAME}"
 
 def download_database(output_path=None):
