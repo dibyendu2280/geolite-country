@@ -16,7 +16,7 @@ from pathlib import Path
 MAXMIND_URL = "https://download.maxmind.com/app/geoip_download"
 EDITION_ID = "GeoLite2-Country"
 DATABASE_DIR = Path("database")
-MMDB_FILE = DATABASE_DIR / "GeoLite2-Country.mmdb"
+MMDB_FILE = DATABASE_DIR / "Geolocation-Country.mmdb"
 LAST_MODIFIED_FILE = DATABASE_DIR / "last_modified.txt"
 
 def get_license_key():
